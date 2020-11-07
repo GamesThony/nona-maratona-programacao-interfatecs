@@ -19,19 +19,3 @@ for i in range(0, len(nomes)):
     result.append(" ".join(nome)) 
 result.sort()
 for res in result: print(res)
-
-Alda Gusmao Antonia Naves
-Ismael Novais Silveira Da Silva De Melo Santos
-Prince Uria Noite
-Ismael Castelo Gorjao
-Jeferson Vargas Capistrano
-Layra Bogado
-Kyara Ramalho Cavaco
-Telmo Lagos Ourique
-Ariele Lousa
-Nicolae Chaves Fitas
-Tania Nascimento Montenegro
-Aayush Areosa Sintra
-Gastao Saraiva Guilheiro
-Ariane
-Lina Madureira Saloio
